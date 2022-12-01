@@ -5,7 +5,6 @@ import(
 	"github.com/silabig1294/discord-bigbot/config"
 	"github.com/bwmarrin/discordgo"
 )
-
 var BotID string
 var goBot *discordgo.Session
 
